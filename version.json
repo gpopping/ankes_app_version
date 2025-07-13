@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build": "1",
+  "downloadUrl": "https://github.com/gpopping/ankes_app/releases/latest",
+  "releaseNotes": "Initial release of Anke's App with De Uitdaging chapter",
+  "isForceUpdate": false
+} 
