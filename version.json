@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "build": "1",
-  "downloadUrl": "https://github.com/gpopping/ankes_app/releases/latest",
-  "releaseNotes": "Initial release of Anke's App with De Uitdaging chapter",
-  "isForceUpdate": false
+  "version": "0.1.1",
+  "buildNumber": 1,
+  "downloadUrl": "https://github.com/gpopping/ankes_app/releases",
+  "iosAppStoreUrl": "https://apps.apple.com/app/ankes-app/id123456789",
+  "androidPlayStoreUrl": "https://play.google.com/store/apps/details?id=com.example.ankes_app",
+  "releaseNotes": "Added clickable URL in DeUitdagingStap8, updated Instagram links, and improved version checking"
 } 
