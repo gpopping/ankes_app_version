@@ -1,8 +1,21 @@
 {
   "version": "0.1.1",
-  "buildNumber": 1,
-  "downloadUrl": "https://github.com/gpopping/ankes_app/releases",
-  "iosAppStoreUrl": "https://apps.apple.com/app/ankes-app/id123456789",
-  "androidPlayStoreUrl": "https://play.google.com/store/apps/details?id=com.example.ankes_app",
-  "releaseNotes": "Added clickable URL in DeUitdagingStap8, updated Instagram links, and improved version checking"
+  "build": "3",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
+  "releaseNotes": "Fixed MainActivity crash issue - app now works properly",
+  "isForceUpdate": false,
+  "minSupportedVersion": "0.0.0",
+  "releaseDate": "2025-07-16",
+  "platforms": {
+    "android": {
+      "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
+      "version": "0.1.1",
+      "build": "3"
+    },
+    "ios": {
+      "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
+      "version": "0.1.1",
+      "build": "3"
+    }
+  }
 } 
