@@ -1,21 +1,21 @@
 {
-  "version": "0.1.1",
-  "build": "3",
+  "version": "0.1.2",
+  "build": "4",
   "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
-  "releaseNotes": "Fixed MainActivity crash issue - app now works properly",
+  "releaseNotes": "All recent fixes and improvements",
   "isForceUpdate": false,
   "minSupportedVersion": "0.0.0",
-  "releaseDate": "2025-07-16",
+  "releaseDate": "2025-07-17",
   "platforms": {
     "android": {
-      "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
-      "version": "0.1.1",
-      "build": "3"
+      "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp/download/app-release.apk",
+      "version": "0.1.2",
+      "build": "4"
     },
     "ios": {
       "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
-      "version": "0.1.1",
-      "build": "3"
+      "version": "0.1.2",
+      "build": "4"
     }
   }
-} 
+}
