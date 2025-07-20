@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "build": "4",
+  "version": "1.0.2",
+  "build": "8",
   "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
   "releaseNotes": "All recent fixes and improvements",
   "isForceUpdate": false,
@@ -9,13 +9,13 @@
   "platforms": {
     "android": {
       "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp/download/app-release.apk",
-      "version": "0.1.2",
-      "build": "4"
+      "version": "1.0.2",
+      "build": "8"
     },
     "ios": {
       "downloadUrl": "https://play.google.com/store/apps/details?id=nl.ankevandelden.ankesApp",
-      "version": "0.1.2",
-      "build": "4"
+      "version": "1.0.2",
+      "build": "8"
     }
   }
 }
